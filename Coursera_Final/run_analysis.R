@@ -2,7 +2,7 @@ install.packages("dplyr")
 library(dplyr)
 
 # Fijar un directorio de trabajo
-setwd("/home/renato/Documentos/R_practice")
+setwd("~/Documentos/R_practice")
 print(getwd())
 
 # Creamos un directorio nuevo de manera recursiva
